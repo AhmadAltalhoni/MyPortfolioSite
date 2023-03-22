@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Github\\MyPortfolioSite\\Core_Proje\\Core_Proje\\Core_Proje.csproj": {}
+    "D:\\Github\\MyPortfolioSite\\Core_proje\\Core_proje\\Core_proje.csproj": {}
   },
   "projects": {
-    "D:\\Github\\MyPortfolioSite\\Core_Proje\\Core_Proje\\Core_Proje.csproj": {
+    "D:\\Github\\MyPortfolioSite\\Core_proje\\Core_proje\\Core_proje.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Github\\MyPortfolioSite\\Core_Proje\\Core_Proje\\Core_Proje.csproj",
-        "projectName": "Core_Proje",
-        "projectPath": "D:\\Github\\MyPortfolioSite\\Core_Proje\\Core_Proje\\Core_Proje.csproj",
+        "projectUniqueName": "D:\\Github\\MyPortfolioSite\\Core_proje\\Core_proje\\Core_proje.csproj",
+        "projectName": "Core_proje",
+        "projectPath": "D:\\Github\\MyPortfolioSite\\Core_proje\\Core_proje\\Core_proje.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "D:\\Github\\MyPortfolioSite\\Core_Proje\\Core_Proje\\obj\\",
+        "outputPath": "D:\\Github\\MyPortfolioSite\\Core_proje\\Core_proje\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

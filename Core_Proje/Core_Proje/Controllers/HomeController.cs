@@ -1,4 +1,4 @@
-﻿using Core_Proje.Models;
+﻿using Core_proje.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using System;
@@ -7,7 +7,7 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Core_Proje.Controllers
+namespace Core_proje.Controllers
 {
     public class HomeController : Controller
     {
